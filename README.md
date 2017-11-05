@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](http://jupyter-notebook.readthedocs.io/en/latest/?badge=latest)
                 
+English 버전 링크 : [[English Version](http://github.com/jupyter/notebook/)]
+
 Jupyter notebook 은 상호 교환을 위한 웹 기반 환경입니다.
 
 ![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
